@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+
+
+.navbar {
+  overflow: hidden;
+  background-color: DarkGoldenrod;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  cursor: pointer;
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn, .dropbtn:focus {
+  background-color: black;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.show {
+  display: block;
+}
+</style>
+</head>
+<body style="background-color: NavajoWhite;">
+
+<div class="navbar">
+  <a href="/bhome/">Home</a>
+  <div class="dropdown">
+  <button class="dropbtn" onclick="myFunction()">Dropdown
+    <i class="fa fa-caret-down"></i>
+  </button>
+  <div class="dropdown-content" id="myDropdown">
+    <a href="/fantasy/">Fantasy</a>
+    <a href="/mystery/">Mystery</a>
+    <a href="/horror/">Horror</a>
+    <a href="/sci-fi/">Sci-Fi</a>
+    <a href="/dsytopian/">Dsytopian</a>
+    <a href="/young-adult/">Young-adult</a>
+    <a href="/philosophy/">Philosophy</a>
+    <a href="/educational/">Educational</a>
+    <a href="/classics/">Classics</a>
+    <a href="/manga/">Manga</a>
+    <a href="/cookbook/">Cook-Book</a>
+  </div>
+  </div>
+    <form action="/book-search" method="get">
+        <label for="searchInput">Search for books:</label>
+        <input type="text" id="searchInput" name="query" placeholder="Enter keywords, author, title...">
+        <button type="submit">Search</button>
+    </form>
+</div>
+
+<h2>Books are windows to different worlds, offering readers an opportunity to explore new realms, ideas, and perspectives. They are not mere collections of words on paper but gateways to imagination and knowledge.<br> Through books, we can travel through time, visiting ancient civilizations or envision a future yet to come.<br> We can delve into the minds of great thinkers, empathize with fictional characters, and acquire new skills and wisdom. Books provide an escape from the mundane, a chance to expand one's horizons, and a means to connect with the thoughts and experiences of others.<br> They are a source of endless inspiration, offering solace, enlightenment, and adventure to anyone who turns their pages.
+<br>
+In addition to their role as sources of entertainment and education, books also serve as a record of human history and thought. They capture the essence of an era, preserving the ideas and stories that have shaped societies and individuals throughout time.<br> Libraries, with their vast collections of books, stand as temples of knowledge, inviting people to seek answers to their questions, explore the mysteries of the universe, and understand the human condition.<br> In an age of digital information, books remain timeless and steadfast, reminding us of the enduring power of the written word to inform, inspire, and ignite the imagination.</h2>
+
+<script>
+/* When the user clicks on the button,
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+  var myDropdown = document.getElementById("myDropdown");
+    if (myDropdown.classList.contains('show')) {
+      myDropdown.classList.remove('show');
+    }
+  }
+}
+</script>
+</body>
+</html>

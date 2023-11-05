@@ -1,0 +1,241 @@
+ID,Title,Author,Genre,Available Copies
+1,Dracula, Bram Stoker,Horror,1
+2,Frankenstein, Mary Shelley,Horror,5
+3,The Shining, Stephen King,Horror,3
+4,The Exorcist, William Peter Blatty,Horror,4
+5,It, Stephen King,Horror,4
+6,The Haunting of Hill House, Shirley Jackson,Horror,4
+7,Psycho, Robert Bloch,Horror,5
+8,The Silence of the Lambs, Thomas Harris,Horror,1
+9,Pet Sematary, Stephen King,Horror,3
+10,The Woman in Black, Susan Hill,Horror,5
+11,The Stand, Stephen King,Horror,4
+12,House of Leaves, Mark Z. Danielewski,Horror,2
+13,American Psycho, Bret Easton Ellis,Horror,3
+14,The Tell-Tale Heart, Edgar Allan Poe,Horror,5
+15,Ghost Story, Peter Straub,Horror,3
+16,Bird Box, Josh Malerman,Horror,4
+17,Hell House, Richard Matheson,Horror,3
+18,The Amityville Horror, Jay Anson,Horror,1
+19,The Girl with All the Gifts, M.R. Carey,Horror,4
+20,Coraline, Neil Gaiman,Horror,2
+21,Dune, Frank Herbert,SciFi,2
+22,Neuromancer, William Gibson,SciFi,5
+23,The Hitchhiker's Guide to the Galaxy, Douglas Adams,SciFi,5
+24,Brave New World, Aldous Huxley,SciFi,2
+25,Ender's Game, Orson Scott Card,SciFi,5
+26,1984, George Orwell,SciFi,3
+27,The Foundation series, Isaac Asimov (Starting with Foundation),SciFi,3
+28,Snow Crash, Neal Stephenson,SciFi,5
+29,The Left Hand of Darkness, Ursula K. Le Guin,SciFi,1
+30,Hyperion, Dan Simmons,SciFi,4
+31,The Martian, Andy Weir,SciFi,4
+32,Altered Carbon, Richard K. Morgan,SciFi,2
+33,A Canticle for Leibowitz, Walter M. Miller Jr.,SciFi,4
+34,The War of the Worlds, H.G. Wells,SciFi,5
+35,Childhood's End, Arthur C. Clarke,SciFi,2
+36,The Time Machine, H.G. Wells,SciFi,4
+37,The Three-Body Problem, Liu Cixin,SciFi,5
+38,The Expanse series, James S.A. Corey (Starting with Leviathan Wakes),SciFi,1
+39,Alas, Babylon,SciFi,4
+40,The Windup Girl, Paolo Bacigalupi,SciFi,4
+41,The Hobbit, J.R.R. Tolkien,Fantasy,1
+42,The Lord of the Rings series, J.R.R. Tolkien (Starting with The Fellowship of the Ring),Fantasy,3
+43,Harry Potter and the Sorcerer's Stone, J.K. Rowling,Fantasy,3
+44,A Song of Ice and Fire series, George R.R. Martin (Starting with A Game of Thrones),Fantasy,1
+45,The Name of the Wind, Patrick Rothfuss,Fantasy,1
+46,Mistborn: The Final Empire, Brandon Sanderson,Fantasy,3
+47,The Wheel of Time series, Robert Jordan (Starting with The Eye of the World),Fantasy,4
+48,The Chronicles of Narnia series, C.S. Lewis (Starting with The Lion,Fantasy,3
+49,The Lies of Locke Lamora, Scott Lynch,Fantasy,1
+50,Good Omens, Neil Gaiman and Terry Pratchett,Fantasy,1
+51,The Way of Kings, Brandon Sanderson,Fantasy,2
+52,The Earthsea Cycle series, Ursula K. Le Guin (Starting with A Wizard of Earthsea),Fantasy,1
+53,The Belgariad series, David Eddings (Starting with Pawn of Prophecy),Fantasy,3
+54,The Kingkiller Chronicle series, Patrick Rothfuss (Starting with The Name of the Wind),Fantasy,3
+55,The Magicians, Lev Grossman,Fantasy,4
+56,The Dark Tower series, Stephen King (Starting with The Gunslinger),Fantasy,5
+57,The Broken Earth trilogy, N.K. Jemisin (Starting with The Fifth Season),Fantasy,2
+58,The Priory of the Orange Tree, Samantha Shannon,Fantasy,3
+59,The Inheritance Trilogy, N.K. Jemisin (Starting with The Hundred Thousand Kingdoms),Fantasy,1
+60,The Witcher series, Andrzej Sapkowski (Starting with The Last Wish),Fantasy,1
+61,The Hunger Games, Suzanne Collins,Young Adult,2
+62,Harry Potter and the Sorcerer's Stone, J.K. Rowling,Young Adult,5
+63,The Fault in Our Stars, John Green,Young Adult,1
+64,The Maze Runner, James Dashner,Young Adult,1
+65,Divergent, Veronica Roth,Young Adult,2
+66,The Percy Jackson & the Olympians series, Rick Riordan (Starting with The Lightning Thief),Young Adult,4
+67,The Twilight Saga, Stephenie Meyer (Starting with Twilight),Young Adult,5
+68,To All the Boys I've Loved Before, Jenny Han,Young Adult,2
+69,The Giver, Lois Lowry,Young Adult,4
+70,The Mortal Instruments series, Cassandra Clare (Starting with City of Bones),Young Adult,3
+71,The Perks of Being a Wallflower, Stephen Chbosky,Young Adult,4
+72,Thirteen Reasons Why, Jay Asher,Young Adult,1
+73,The Book Thief, Markus Zusak,Young Adult,1
+74,The Selection series, Kiera Cass (Starting with The Selection),Young Adult,1
+75,Eleanor & Park, Rainbow Rowell,Young Adult,2
+76,The Lunar Chronicles series, Marissa Meyer (Starting with Cinder),Young Adult,4
+77,The Giver Quartet, Lois Lowry (Starting with The Giver),Young Adult,1
+78,The 5th Wave, Rick Yancey,Young Adult,5
+79,The Uglies series, Scott Westerfeld (Starting with Uglies),Young Adult,2
+80,Miss Peregrine's Home for Peculiar Children, Ransom Riggs,Young Adult,2
+81,The Pragmatic Programmer, Andrew Hunt and David Thomas,Education,4
+82,Clean Code: A Handbook of Agile Software Craftsmanship, Robert C. Martin,Education,3
+83,Introduction to the Theory of Computation, Michael Sipser,Education,4
+84,Design Patterns: Elements of Reusable Object-Oriented Software, Erich Gamma,Education,5
+85,JavaScript: The Good Parts, Douglas Crockford,Education,4
+86,Python Crash Course, Eric Matthes,Education,4
+87,Head First Design Patterns, Eric Freeman,Education,2
+88,The C Programming Language, Brian W. Kernighan and Dennis M. Ritchie,Education,2
+89,Algorithms, Robert Sedgewick and Kevin Wayne,Education,5
+90,Effective Java, Joshua Bloch,Education,4
+91,You Don't Know JS series, Kyle Simpson (covers different aspects of JavaScript),Education,5
+92,The Ruby Programming Language, David Flanagan and Yukihiro Matsumoto (Matz),Education,4
+93,Learning Python, Mark Lutz,Education,4
+94,Java: The Complete Reference, Herbert Schildt,Education,2
+95,SQL Performance Explained, Markus Winand,Education,4
+96,The Art of Computer Programming, Donald E. Knuth,Education,3
+97,Programming Pearls, Jon Bentley,Education,1
+98,Code Complete, Steve McConnell,Education,3
+99,The Mythical Man-Month, Frederick P. Brooks Jr.,Education,3
+100,Structure and Interpretation of Computer Programs, Harold Abelson and Gerald Jay Sussman,Education,3
+101,A People's History of the United States, Howard Zinn,Philosphy,5
+102,Guns, Germs,Philosphy,5
+103,Sapiens: A Brief History of Humankind, Yuval Noah Harari,Philosphy,1
+104,The Wright Brothers, David McCullough,Philosphy,5
+105,The Rise and Fall of the Third Reich, William L. Shirer,Philosphy,2
+106,1491: New Revelations of the Americas Before Columbus, Charles C. Mann,Philosphy,2
+107,The Guns of August, Barbara W. Tuchman,Philosphy,1
+108,SPQR: A History of Ancient Rome, Mary Beard,Philosphy,2
+109,The Silk Roads: A New History of the World, Peter Frankopan,Philosphy,5
+110,A Short History of Nearly Everything, Bill Bryson,Philosphy,3
+111,A Short History of the World, H.G. Wells,Philosphy,2
+112,The Diary of a Young Girl, Anne Frank,Philosphy,5
+113,The Civil War: A Narrative, Shelby Foote,Philosphy,2
+114,Citizens: A Chronicle of the French Revolution, Simon Schama,Philosphy,5
+115,1776, David McCullough,Philosphy,3
+116,The Making of the Atomic Bomb, Richard Rhodes,Philosphy,2
+117,The Wright Brothers, David McCullough,Philosphy,2
+118,The Devil in the White City, Erik Larson,Philosphy,1
+119,The Plantagenets: The Warrior Kings and Queens Who Made England, Dan Jones,Philosphy,3
+120,The Swerve: How the World Became Modern, Stephen Greenblatt,Philosphy,1
+121,Meditations, Marcus Aurelius,Philosphy,4
+122,The Republic, Plato,Philosphy,1
+123,Being and Time, Martin Heidegger,Philosphy,4
+124,Critique of Pure Reason, Immanuel Kant,Philosphy,3
+125,The Nicomachean Ethics, Aristotle,Philosphy,3
+126,The Art of War, Sun Tzu,Philosphy,4
+127,Thus Spoke Zarathustra, Friedrich Nietzsche,Philosphy,4
+128,The Prince, Niccolò Machiavelli,Philosphy,2
+129,The Tao Te Ching, Laozi,Philosphy,3
+130,Simulacra and Simulation, Jean Baudrillard,Philosphy,5
+131,Groundwork of the Metaphysics of Morals, Immanuel Kant,Philosphy,1
+132,The Birth of Tragedy, Friedrich Nietzsche,Philosphy,3
+133,The Phenomenology of Spirit, Georg Wilhelm Friedrich Hegel,Philosphy,3
+134,The Social Contract, Jean-Jacques Rousseau,Philosphy,5
+135,The Second Sex, Simone de Beauvoir,Philosphy,3
+136,The Art of Loving, Erich Fromm,Philosphy,3
+137,The Ethics, Benedict de Spinoza,Philosphy,4
+138,The Structure of Scientific Revolutions, Thomas S. Kuhn,Philosphy,2
+139,A Theory of Justice, John Rawls,Philosphy,2
+140,Being and Nothingness, Jean-Paul Sartre,Philosphy,1
+141,The Adventures of Sherlock Holmes, Arthur Conan Doyle,Mystery,3
+142,Gone Girl, Gillian Flynn,Mystery,2
+143,The Girl with the Dragon Tattoo, Stieg Larsson,Mystery,5
+144,The Da Vinci Code, Dan Brown,Mystery,2
+145,Murder on the Orient Express, Agatha Christie,Mystery,4
+146,The Hound of the Baskervilles, Arthur Conan Doyle,Mystery,1
+147,The No. 1 Ladies' Detective Agency, Alexander McCall Smith,Mystery,2
+148,The Cuckoo's Calling, Robert Galbraith (pseudonym for J.K. Rowling),Mystery,4
+149,Big Little Lies, Liane Moriarty,Mystery,3
+150,The Silence of the Lambs, Thomas Harris,Mystery,3
+151,The Reversal, Michael Connelly,Mystery,5
+152,The Woman in White, Wilkie Collins,Mystery,4
+153,The Secret History, Donna Tartt,Mystery,3
+154,In the Woods, Tana French,Mystery,5
+155,Still Life, Louise Penny,Mystery,2
+156,The Dry, Jane Harper,Mystery,2
+157,The Silent Patient, Alex Michaelides,Mystery,4
+158,The Girl on the Train, Paula Hawkins,Mystery,2
+159,Dark Places, Gillian Flynn,Mystery,4
+160,The Poet, Michael Connelly,Mystery,3
+161,1984, George Orwell,Dystopian,4
+162,Brave New World, Aldous Huxley,Dystopian,2
+163,The Handmaid's Tale, Margaret Atwood,Dystopian,3
+164,Fahrenheit 451, Ray Bradbury,Dystopian,5
+165,The Hunger Games, Suzanne Collins,Dystopian,3
+166,The Road, Cormac McCarthy,Dystopian,1
+167,The Giver, Lois Lowry,Dystopian,3
+168,A Clockwork Orange, Anthony Burgess,Dystopian,5
+169,The Maze Runner, James Dashner,Dystopian,2
+170,Station Eleven, Emily St. John Mandel,Dystopian,5
+171,The Road, Cormac McCarthy,Dystopian,1
+172,The Children of Men, P.D. James,Dystopian,1
+173,Never Let Me Go, Kazuo Ishiguro,Dystopian,5
+174,The Windup Girl, Paolo Bacigalupi,Dystopian,3
+175,Parable of the Sower, Octavia E. Butler,Dystopian,5
+176,Alas, Babylon,Dystopian,1
+177,The Left Hand of Darkness, Ursula K. Le Guin,Dystopian,4
+178,The Stand, Stephen King,Dystopian,5
+179,The Drowned World, J.G. Ballard,Dystopian,2
+180,The Power, Naomi Alderman,Dystopian,1
+181,Naruto, Masashi Kishimoto,Manga,2
+182,One Piece, Eiichiro Oda,Manga,4
+183,Attack on Titan, Hajime Isayama,Manga,1
+184,Death Note, Tsugumi Ohba and Takeshi Obata,Manga,1
+185,Dragon Ball, Akira Toriyama,Manga,4
+186,My Hero Academia, Kohei Horikoshi,Manga,3
+187,Fullmetal Alchemist, Hiromu Arakawa,Manga,5
+188,Tokyo Ghoul, Sui Ishida,Manga,2
+189,One Punch Man, ONE and Yusuke Murata,Manga,5
+190,Bleach, Tite Kubo,Manga,1
+191,Hunter x Hunter, Yoshihiro Togashi,Manga,3
+192,Fairy Tail, Hiro Mashima,Manga,1
+193,Sword Art Online, Reki Kawahara and abec,Manga,5
+194,Demon Slayer: Kimetsu no Yaiba, Koyoharu Gotouge,Manga,3
+195,One Piece, Eiichiro Oda,Manga,5
+196,Black Clover, Yūki Tabata,Manga,2
+197,Dr. Stone, Riichiro Inagaki and Boichi,Manga,4
+198,Promised Neverland, Kaiu Shirai and Posuka Demizu,Manga,3
+199,Akira, Katsuhiro Otomo,Manga,1
+200,Yu Yu Hakusho, Yoshihiro Togashi,Manga,5
+201,Joy of Cooking, Irma S. Rombauer,Cookbook,2
+202,Mastering the Art of French Cooking, Julia Child,Cookbook,2
+203,The Food Lab: Better Home Cooking Through Science, J. Kenji López-Alt,Cookbook,1
+204,The Joy of Vegan Baking, Colleen Patrick-Goudreau,Cookbook,2
+205,Essentials of Classic Italian Cooking, Marcella Hazan,Cookbook,1
+206,Salt, Fat,Cookbook,4
+207,Barefoot Contessa at Home, Ina Garten,Cookbook,5
+208,The Pioneer Woman Cooks: Recipes from an Accidental Country Girl, Ree Drummond,Cookbook,3
+209,The Smitten Kitchen Cookbook, Deb Perelman,Cookbook,2
+210,The Whole 30: The 30-Day Guide to Total Health and Food Freedom, Melissa Hartwig and Dallas Hartwig,Cookbook,1
+211,The Barefoot Contessa Cookbook, Ina Garten,Cookbook,4
+212,Everyday Italian: 125 Simple and Delicious Recipes, Giada De Laurentiis,Cookbook,1
+213,Jamie Oliver's Food Revolution: Rediscover How to Cook Simple, Delicious,Cookbook,1
+214,Cravings: Recipes for All the Food You Want to Eat, Chrissy Teigen,Cookbook,4
+215,Thug Kitchen: The Official Cookbook, Thug Kitchen,Cookbook,4
+216,The Pioneer Woman Cooks: Dinnertime, Ree Drummond,Cookbook,1
+217,The Silver Palate Cookbook, Julee Rosso and Sheila Lukins,Cookbook,4
+218,The Complete Cooking for Two Cookbook, America's Test Kitchen,Cookbook,5
+219,The Joy of Cooking: 75th Anniversary Edition, Irma S. Rombauer,Cookbook,3
+220,The Smitten Kitchen Cookbook, Deb Perelman,Cookbook,2
+221,Pride and Prejudice, Jane Austen,Classic,4
+222,Moby-Dick, Herman Melville,Classic,2
+223,To Kill a Mockingbird, Harper Lee,Classic,5
+224,The Great Gatsby, F. Scott Fitzgerald,Classic,1
+225,War and Peace, Leo Tolstoy,Classic,4
+226,Jane Eyre, Charlotte Brontë,Classic,5
+227,1984, George Orwell,Classic,5
+228,Great Expectations, Charles Dickens,Classic,2
+229,The Catcher in the Rye, J.D. Salinger,Classic,2
+230,Wuthering Heights, Emily Brontë,Classic,3
+231,Frankenstein, Mary Shelley,Classic,2
+232,The Grapes of Wrath, John Steinbeck,Classic,5
+233,Mansfield Park, Jane Austen,Classic,3
+234,The Odyssey, Homer,Classic,4
+235,Dracula, Bram Stoker,Classic,3
+236,Sense and Sensibility, Jane Austen,Classic,3
+237,Crime and Punishment, Fyodor Dostoevsky,Classic,5
+238,Les Misérables, Victor Hugo,Classic,3
+239,The Scarlet Letter, Nathaniel Hawthorne,Classic,3
+240,Anna Karenina, Leo Tolstoy,Classic,3

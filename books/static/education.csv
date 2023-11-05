@@ -1,0 +1,21 @@
+ID,Title,Author,Genre,Available Copies
+81,The Pragmatic Programmer, Andrew Hunt and David Thomas,Education,4
+82,Clean Code: A Handbook of Agile Software Craftsmanship, Robert C. Martin,Education,3
+83,Introduction to the Theory of Computation, Michael Sipser,Education,4
+84,Design Patterns: Elements of Reusable Object-Oriented Software, Erich Gamma,Education,5
+85,JavaScript: The Good Parts, Douglas Crockford,Education,4
+86,Python Crash Course, Eric Matthes,Education,4
+87,Head First Design Patterns, Eric Freeman,Education,2
+88,The C Programming Language, Brian W. Kernighan and Dennis M. Ritchie,Education,2
+89,Algorithms, Robert Sedgewick and Kevin Wayne,Education,5
+90,Effective Java, Joshua Bloch,Education,4
+91,You Don't Know JS series, Kyle Simpson (covers different aspects of JavaScript),Education,5
+92,The Ruby Programming Language, David Flanagan and Yukihiro Matsumoto (Matz),Education,4
+93,Learning Python, Mark Lutz,Education,4
+94,Java: The Complete Reference, Herbert Schildt,Education,2
+95,SQL Performance Explained, Markus Winand,Education,4
+96,The Art of Computer Programming, Donald E. Knuth,Education,3
+97,Programming Pearls, Jon Bentley,Education,1
+98,Code Complete, Steve McConnell,Education,3
+99,The Mythical Man-Month, Frederick P. Brooks Jr.,Education,3
+100,Structure and Interpretation of Computer Programs, Harold Abelson and Gerald Jay Sussman,Education,3

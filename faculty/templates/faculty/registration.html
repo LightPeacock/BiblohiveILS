@@ -1,0 +1,30 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+    <meta charset="UTF-8">
+    <title>Registration</title>
+</head>
+<body>
+    <h3>Register</h3>
+    <main>
+<!-- <form method="get" action="myStudentData">-->
+<!--lOGIN PAGE FROM TEMPLATES FOLDER<br>-->
+<!--    0-> All users<br>-->
+<!--    user id -> specific user <br>-->
+<!--    Enter Username-->
+<!--<input type="text" name="userid" id="userid"><br>-->
+<!--     enter password-->
+<!--     <input type="text" name="password" id="password"><br>-->
+<!--   <input type="submit" value="Try">-->
+<!--</form>-->
+
+         <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Register</button>
+    </form>
+</main>
+</body>
+</html>

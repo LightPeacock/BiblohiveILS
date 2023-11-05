@@ -1,0 +1,27 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+    <meta charset="UTF-8">
+    <title>Faculty home</title>
+</head>
+<body>
+ <footer>
+        <h1>Welcome to the Home Page</h1>
+        {% if user.is_authenticated %}
+            <p>Hello, {{ user.username }}!</p>
+            <p>Here is some text for the logged-in user.</p>
+        {% else %}
+            <p>You are not logged in. Please <a href="{% url 'flogin' %}">log in</a>.</p>
+        {% endif %}
+    </footer>
+ <br>
+<footer>
+<p style="color:Red; font-weight:bold; font-size:24px; opacity:1.2;">Books, with their timeless allure, are like gateways to uncharted worlds and boundless knowledge.<br>
+    They stand as faithful companions, inviting us to embark on journeys of the mind, exploring distant realms, and delving into the deepest recesses of the human experience.<br>
+    The pages whisper secrets, unravel mysteries, and paint vivid landscapes with words, all while igniting the fires of imagination.<br>
+    In their presence, we find solace, inspiration, and wisdom. Books are the keys that unlock the doors to wisdom, empathy, and understanding, and they remind us that within the boundless expanse of literature, there's a story for every heart and a universe for every soul.</p>
+</footer>
+</body>
+</html>
